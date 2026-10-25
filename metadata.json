@@ -1,0 +1,6 @@
+{
+  "name": "PersonaAI",
+  "description": "Engage in vivid, personalized conversations with diverse AI characters, create custom personas, listen with voice synthesis, talk with speech recognition, and generate AI scene imagery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
